@@ -80,6 +80,8 @@ body {
   background-image: url(../images/carousel-bg.jpg);
   background-repeat: no-repeat;
   height: 617px;
+ background-position: center;
+ background-size: cover;
 }
 
 .carousel_content {
@@ -218,6 +220,8 @@ main .container {
 
 .services {
   background-image: url(../images/services-bg.jpg);
+  background-position: center;
+  background-size: cover;
   height: 421px;
   padding-bottom: 0;
 }
